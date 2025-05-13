@@ -9,7 +9,6 @@
 - 文件大小: ***2.73 MB (2,867,200 字节)***
 - Mainnet: ***22198***
 - BSC: ***3144***
-- Mainnet: ***22198***
 - Base: ***195***
 
 **数据库的地址实际上少于 [Etherscan 系浏览器](https://etherscan.io/): 详见 [brianleect](https://github.com/brianleect) 的由于数据爬取困难而停更的项目 [etherscan-labels](https://github.com/brianleect/etherscan-labels), 如果你有能力爬取数据, 那么可以考虑在他的基础上进行开发, 又能省事了**
